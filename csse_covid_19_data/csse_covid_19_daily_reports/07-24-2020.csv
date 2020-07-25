@@ -935,7 +935,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 47047,Fayette,Tennessee,US,2020-07-25 04:47:39,35.19615831,-89.41399032,512,8,0,504,"Fayette, Tennessee, US",1244.7426640410374,1.5625
 48149,Fayette,Texas,US,2020-07-25 04:47:39,29.87788372,-96.92076062,334,5,0,329,"Fayette, Texas, US",1317.762171545806,1.4970059880239521
 54019,Fayette,West Virginia,US,2020-07-25 04:47:39,38.02974928,-81.08286634,111,5,0,106,"Fayette, West Virginia, US",261.7554119700042,4.504504504504505
-,Federal Correctional Institution (FCI),Michigan,US,2020-07-25 04:47:39,,,189,5,0,184,"Federal Correctional Institution (FCI), Michigan, US",,2.6455026455026456
+,Federal Correctional Institution (FCI),Michigan,US,2020-07-25 04:47:39,,189,5,0,184,"Federal Correctional Institution (FCI), Michigan, US",,2.6455026455026456
 47049,Fentress,Tennessee,US,2020-07-25 04:47:39,36.38128818,-84.92870012,48,0,0,48,"Fentress, Tennessee, US",259.1372887761162,0.0
 30027,Fergus,Montana,US,2020-07-25 04:47:39,47.26331584,-109.2245206,4,0,0,4,"Fergus, Montana, US",36.199095022624434,0.0
 53019,Ferry,Washington,US,2020-07-25 04:47:39,48.471143100000006,-118.5154041,7,0,0,7,"Ferry, Washington, US",91.77920545430706,0.0
